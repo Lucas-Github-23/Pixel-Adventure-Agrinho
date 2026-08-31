@@ -1,9 +1,10 @@
 # 🛠️ Pixel Adventure (Agrinho)
 
+🥉 **3º Lugar — NRE Maringá (Programa Agrinho)**
+
 ![Game Banner / Icon](icon-256.png)
 
-> **Pixel Adventure** é um jogo de plataforma 2D em Pixel Art desenvolvido para o **Programa Agrinho**. O jogo combina diversão, mecânicas clássicas de plataforma e uma experiência educativa focada no aprendizado interativo de crianças e jovens.
-
+> **Pixel Adventure** é um jogo de plataforma 2D em Pixel Art premiado com o **3º lugar no NRE Maringá** pelo **Programa Agrinho**. O jogo combina diversão, mecânicas clássicas de plataforma e uma experiência educativa focada no aprendizado interativo.
 ---
 
 ## 📋 Sumário
