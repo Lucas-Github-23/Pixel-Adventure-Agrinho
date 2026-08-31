@@ -50,21 +50,23 @@ O jogo foi construído utilizando a engine de jogos HTML5 **Construct 2/3**:
 
 ---
 
-## 🚀 Como Executar o Jogo
+## 🚀 Como Jogar e Executar
 
-Como o jogo foi exportado em HTML5 Web, você não precisa instalar nenhuma engine para jogar!
+### 🎮 Opção 1: Jogar Online no Navegador
+Você pode jogar a versão hospedada diretamente no GitHub Pages:
 
-### Opção 1: Executar Localmente
-1. Clone ou baixe este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Pixel-Adventure-Agrinho.git
-   ```
-2. Abra a pasta do projeto e dê um duplo clique no arquivo `index.html` (ou abra via servidor local como Live Server no VS Code).
+👉 **[Clique aqui para jogar o Pixel Adventure](https://lucas-github-23.github.io/pixel-adventure-agrinho/)**
 
-### Opção 2: Hospedar no GitHub Pages / Netlify / Vercel
-1. Faça o upload deste repositório para o seu GitHub.
-2. Ative o **GitHub Pages** nas configurações do repositório (`Settings > Pages`).
-3. O jogo estará disponível online e jogável em qualquer navegador ou celular!
+---
+
+### 💻 Opção 2: Executar Localmente
+1. Clone este repositório:
+```bash
+   git clone [https://github.com/lucas-github-23/pixel-adventure-agrinho.git](https://github.com/lucas-github-23/pixel-adventure-agrinho.git)
+```
+
+2. Abra a pasta do projeto e dê um duplo clique no arquivo `index.html` (ou abra utilizando uma extensão de servidor local como o Live Server no VS Code).
+
 
 ---
 
