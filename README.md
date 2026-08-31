@@ -55,7 +55,7 @@ O jogo foi construído utilizando a engine de jogos HTML5 **Construct 2/3**:
 ### 🎮 Opção 1: Jogar Online no Navegador
 Você pode jogar a versão hospedada diretamente no GitHub Pages:
 
-👉 **[Clique aqui para jogar o Pixel Adventure](https://lucas-github-23.github.io/pixel-adventure-agrinho/)**
+👉 **[Clique aqui para jogar o Pixel Adventure](https://Lucas-Github-23.github.io/Pixel-Adventure-Agrinho/)**
 
 ---
 
